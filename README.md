@@ -1,1 +1,1 @@
-# fondos-de-amortizaci-n
+# fondos de amortizacion
