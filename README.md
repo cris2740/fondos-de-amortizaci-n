@@ -1,6 +1,6 @@
 # fondos de amortizacion
 Este repositorio ha sido creado para agregar informacion sobre los fondos de amortizacion
-el cual ha sido elaborado por alumnos de la Universidad Michoacana de San Nicolas de Hidalgpo (UMSNH)
+el cual ha sido elaborado por alumnos de la Universidad Michoacana de San Nicolas de Hidalgpo (UMSNH) 
 
 los cuales son:
 Juan Pablo Tellez Marquez, Fernando Zuriel Martinez Barrera, Luis Eduardo Urquiza Hernandez Carmen Yaxiri Lopez Garcia y su servidora Cristina Calderon Avalos
