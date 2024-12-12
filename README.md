@@ -4,5 +4,4 @@ el cual ha sido elaborado por alumnos de la Universidad Michoacana de San Nicola
 la informacion puede encontrarse en estos dos archivos a continuacion
 [presentacion en qmd](https://github.com/cris2740/fondos-de-amortizacion/blob/main/Presentacion_FondosDeAmortizacion.qmd)
 
-
 [documento en html](https://github.com/cris2740/fondos-de-amortizacion/blob/main/Fondos_amortizacion.html)
